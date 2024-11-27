@@ -1,0 +1,26 @@
+*{
+    font-family: "PT Serif", serif;
+}
+header{
+    background: #006D77;
+}
+.nav-item a{
+color: aliceblue;
+}
+
+.caja-habilidades{
+    background-color:#83C5BE ;
+}
+
+.btn-proyecto{
+    background-color: rgb(221, 15, 50);
+}
+.btn-proyecto a{
+    color: aliceblue;
+}
+.card  .card-title{
+    color: blue;
+}
+footer p{
+    color: #006D77;
+}
