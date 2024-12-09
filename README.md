@@ -1,5 +1,3 @@
-# danaayelen.github.io
-Portafolio de trabajo
 # Portafolio de proyectos
 ¡Hola! Soy *Dana Ayelen Bazán Domínguez*, soy ***Ing.Comunicaciones y Electronica.*** Te invito a conocer más sobre mi.
 
@@ -13,3 +11,4 @@ Portafolio de trabajo
 - HTML
 - CSS
 - JavaScript
+

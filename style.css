@@ -3,24 +3,81 @@
 }
 header{
     background: #006D77;
+    position: sticky;
+    top: 0;
+    z-index: 1000; /* Asegura que esté encima de otros elementos */
+
+}
+.nombre span{
+    color: #f8f8f8;
+}
+.slash{
+   
+    color: #f7f8f8;
 }
 .nav-item a{
 color: aliceblue;
 }
+.opciones{
+    font-size: 20px;
+}
+.opciones .nav-link:hover {
+    color: black; /* Color al pasar el cursor */
+  }
+.fotoper{
+    border-radius:  100px;
+    box-shadow: 5px 5px 15px #02727c93;;;  /*dar sombra a la fotografia*/
+}
+.botonCV{
+    height: 50px;
+    background-color: #006D77;
+    color: #f7f7f7;
+    border-radius: 20px;
+    padding: 15px;
+}
+.botonCV:hover{
+    color: rgb(0, 0, 0);
+}
+/* Primera parte del proyecto */
+/* Aqui comienza la segunda parte del proyecto */
 
 .caja-habilidades{
-    background-color:#83C5BE ;
+    background-color:#529992;
+    margin: 20px;
+    box-shadow: 10px 10px 10px;
 }
 
 .btn-proyecto{
-    background-color: rgb(221, 15, 50);
+    background-color: #E29578;
 }
 .btn-proyecto a{
     color: aliceblue;
 }
 .card  .card-title{
-    color: blue;
+    color: rgb(230, 162, 37);
 }
 footer p{
     color: #006D77;
+}
+.testimonios{
+    margin-top: 50px;
+}
+.texto{
+   text-align: justify;
+}
+.carousel-control-prev{
+    background-color: #83C5BE;
+    margin-top: 200px;
+    height: 50px;
+    width: auto;
+}
+.carousel-control-next{
+    background-color: #83C5BE;
+    margin-top: 200px;
+    height: 50px;
+    width: auto;
+}
+
+#contacto{
+    background-color: #0c929e;
 }
